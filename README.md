@@ -1,6 +1,6 @@
 #Search Engine
 
-A search engine built to search for Links on Dr. Stuff you should know Podcast. 
+A search engine built to search for Links on  Stuff you should know Podcast. 
 Use the following link to access it:
 [Stuff You Should Know](http://vm520.rz.uni-osnabrueck.de/user180/app.wsgi/)
 
