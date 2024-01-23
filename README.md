@@ -31,8 +31,8 @@ As all things, our search engine too, is not perfect.
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/devashishk99/custom-search-engine.git
-$ cd custom-search-engine
+$ git clone https://github.com/VipraTyagi/Search-Engine.git
+$ cd Search-Engine
 $ python3 -m venv venv
 ```
 ### Activate virtual environment
